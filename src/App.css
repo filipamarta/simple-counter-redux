@@ -7,4 +7,5 @@ body {
   background: linear-gradient(101deg, rgb(207, 138, 145) 0%, rgb(204, 133, 212) 100%);
   background-repeat: no-repeat;
   font-family: 'Jost', sans-serif;
+  margin: 0;
 }
